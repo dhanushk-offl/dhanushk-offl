@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanushk-offl
-- 👀 I’m interested in development ML Models using Advanced Python
-- 🌱 I’m currently learning DevOps Manipulation in ML Datasets
-- 💞️ I’m looking to collaborate on Saas IT Company
+- 👀 I’m interested in development AI Models using Advanced Python
+- 🌱 Research Fellow at Cambridge University
+- 💞️ I’m looking for Assists for upcoming researchers!
 - 📫 How to reach me? You can reach via my Official Instagram Page, Twitter Pages and my Official Email.
 
 <!---
