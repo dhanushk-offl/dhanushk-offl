@@ -13,7 +13,7 @@
 
 #### Thank You-🙏🏼
 
-⭐️ From [Dhanush Kandhan](https://github.com/dhanushk-offl)
+⭐️ From [Dhanush Kandhan](https://www.itsdhanush.tech)
 
 
 
