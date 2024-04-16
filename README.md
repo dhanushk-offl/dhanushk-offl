@@ -2,6 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently pursuing my research in AI and exploring novel ways to advance the field.
+- 💻Open Source Contributor
 - 🚀 I love learning and pushing the boundaries of what is possible.
 - 📚 I'm an avid reader, and I enjoy exploring various genres of books.
 - 🎵 Music keeps me inspired, and I'm always discovering new tunes.
