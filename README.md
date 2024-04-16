@@ -10,7 +10,7 @@
   
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/dhanushkandhan75@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:dhanushkandhan75@gmail.com">   <a  href="https://www.instagram.com/itsmedhanushk_"><img src="https://img.shields.io/badge/@itsmedhanushk_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/dhanushkandhan/"><img src="https://img.shields.io/badge/Dhanush Kandhan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://itzmedhanu.medium.com/"><img src="https://img.shields.io/badge/@itzmedhanu-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="mailto:dhanushkandhan75@gmail.com"><img src="https://img.shields.io/badge/dhanushkandhan75@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   <a  href="https://www.instagram.com/itsmedhanushk_"><img src="https://img.shields.io/badge/@itsmedhanushk_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/dhanushkandhan/"><img src="https://img.shields.io/badge/Dhanush Kandhan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://itzmedhanu.medium.com/"><img src="https://img.shields.io/badge/@itzmedhanu-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 #### Thank You-🙏🏼
 
