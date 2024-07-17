@@ -14,7 +14,7 @@
 
 #### Thank You-🙏🏼
 
-⭐️ From [Dhanush Kandhan](https://www.itsdhanush.tech)
+⭐️ From [Dhanush Kandhan](https://dhanush.pages.dev)
 
 
 
