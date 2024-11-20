@@ -16,7 +16,7 @@
 
 ⭐️ From [Dhanush Kandhan](https://itsdhanu.me)
 
-
+[![](https://visitcount.itsvg.in/api?id=dhanushk-offl&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 dhanushk-offl/dhanushk-offl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
