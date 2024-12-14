@@ -7,6 +7,11 @@
 - 📚 I'm an avid reader, and I enjoy exploring various genres of books.
 - 🎵 Music keeps me inspired, and I'm always discovering new tunes.
 - 💬 Ask me about AI, software development, or anything tech-related!
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanushk-offl&show_icons=true&locale=en&layout=compact" alt="dhanushk-offl" /></p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushk-offl&" alt="dhanushk-offl" /></p>
   
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
