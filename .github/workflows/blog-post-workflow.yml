@@ -1,19 +1,32 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 permissions:
-  actions: write
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+        with:
+          token: ${{ secrets.ACTIONS_PAT }} # Use the PAT stored in repository secrets
+
+      - name: Pull in Medium Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@itzmedhanu"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated with the latest blog posts" || echo "No changes to commit"
+          git push
