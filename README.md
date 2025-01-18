@@ -28,11 +28,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Landed My First IT Job Without Touching DSA?](https://itzmedhanu.medium.com/how-i-landed-my-first-it-job-without-touching-dsa-92f842f6b4a2?source=rss-34d8ff7cd5f5------2)
 - [2025’s Top 5 Self-Learning Pro Tips for Consistent Coding Growth &lpar;With My Personal Experience&rpar;](https://itzmedhanu.medium.com/2025s-top-5-self-learning-pro-tips-for-consistent-coding-growth-with-my-personal-experience-4510c33d2d48?source=rss-34d8ff7cd5f5------2)
 - [Do You Really Need a GPU for AI Models? The Truth, Hardware Needs, and Deployment Insights](https://itzmedhanu.medium.com/do-you-really-need-a-gpu-for-ai-models-the-truth-hardware-needs-and-deployment-insights-37b650adfb91?source=rss-34d8ff7cd5f5------2)
 - [Why React and FastAPI are the “Jodi No.](https://itzmedhanu.medium.com/why-react-and-fastapi-are-the-jodi-no-37fd32ea279a?source=rss-34d8ff7cd5f5------2)
 - [Variational Autoencoders &lpar;VAEs&rpar; Unveiled: A Deep Dive with a Tamil Flavor](https://itzmedhanu.medium.com/variational-autoencoders-vaes-unveiled-a-deep-dive-with-a-tamil-flavor-940cccdf468e?source=rss-34d8ff7cd5f5------2)
-- [Embracing AI Models on Open Source OS: Why Ubuntu and Debian Shine Over Windows and MacOS](https://itzmedhanu.medium.com/embracing-ai-models-on-open-source-os-why-ubuntu-and-debian-shine-over-windows-and-macos-e5de91b92be3?source=rss-34d8ff7cd5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
