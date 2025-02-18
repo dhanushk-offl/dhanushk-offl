@@ -74,7 +74,7 @@ Research                ███████████████░░░�
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Science for Dummies &lpar;Like Me, Once Upon a Time&rpar;](https://itzmedhanu.medium.com/data-science-for-dummies-like-me-once-upon-a-time-893225d5c422?source=rss-34d8ff7cd5f5------2)
+- [Data Science for Dummies &lpar;Like Me, Once Upon a Time&rpar;](https://medium.com/age-of-awareness/data-science-for-dummies-like-me-once-upon-a-time-893225d5c422?source=rss-34d8ff7cd5f5------2)
 - [Are You Overthinking Your Tech Project Instead of Building It? Just be Irrungg Bhai!](https://itzmedhanu.medium.com/are-you-overthinking-your-tech-project-instead-of-building-it-just-be-irrungg-bhai-2b66ba9eb122?source=rss-34d8ff7cd5f5------2)
 - [How I Landed My First IT Job Without Touching DSA?](https://itzmedhanu.medium.com/how-i-landed-my-first-it-job-without-touching-dsa-92f842f6b4a2?source=rss-34d8ff7cd5f5------2)
 - [2025’s Top 5 Self-Learning Pro Tips for Consistent Coding Growth &lpar;With My Personal Experience&rpar;](https://itzmedhanu.medium.com/2025s-top-5-self-learning-pro-tips-for-consistent-coding-growth-with-my-personal-experience-4510c33d2d48?source=rss-34d8ff7cd5f5------2)
