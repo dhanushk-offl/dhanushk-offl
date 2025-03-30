@@ -74,11 +74,11 @@ Research                ███████████████░░░�
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Startups: The Art of Sticking With It &lpar;And Not Going Broke!&rpar;](https://itzmedhanu.medium.com/startups-the-art-of-sticking-with-it-and-not-going-broke-f53765655857?source=rss-34d8ff7cd5f5------2)
 - [A Practical &amp; Easy Guide to Enhanced Vector Search &amp; Clustering with NVIDIA cuVS](https://itzmedhanu.medium.com/a-practical-easy-guide-to-enhanced-vector-search-clustering-with-nvidia-cuvs-b49ff27f43e8?source=rss-34d8ff7cd5f5------2)
 - [The Mini-Biography of Dhanu: That’s Me!](https://itzmedhanu.medium.com/the-mini-biography-of-dhanu-thats-me-c7ccbcf9460f?source=rss-34d8ff7cd5f5------2)
 - [Data Science for Dummies &lpar;Like Me, Once Upon a Time&rpar;](https://medium.com/age-of-awareness/data-science-for-dummies-like-me-once-upon-a-time-893225d5c422?source=rss-34d8ff7cd5f5------2)
 - [Are You Overthinking Your Tech Project Instead of Building It? Just be Irrungg Bhai!](https://itzmedhanu.medium.com/are-you-overthinking-your-tech-project-instead-of-building-it-just-be-irrungg-bhai-2b66ba9eb122?source=rss-34d8ff7cd5f5------2)
-- [How I Landed My First IT Job Without Touching DSA?](https://itzmedhanu.medium.com/how-i-landed-my-first-it-job-without-touching-dsa-92f842f6b4a2?source=rss-34d8ff7cd5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎙️ Latest Podcast Episodes
