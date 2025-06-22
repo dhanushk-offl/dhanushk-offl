@@ -74,7 +74,7 @@ Research                ███████████████░░░�
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [“Hey, Can We Build Good AI?” — A Chill But Crucial Talk About Responsible AI](https://itzmedhanu.medium.com/hey-can-we-build-good-ai-a-chill-but-crucial-talk-about-responsible-ai-f89654109cc6?source=rss-34d8ff7cd5f5------2)
+- [“Hey, Can We Build Good AI?” — A Chill But Crucial Talk About Responsible AI](https://medium.com/age-of-awareness/hey-can-we-build-good-ai-a-chill-but-crucial-talk-about-responsible-ai-f89654109cc6?source=rss-34d8ff7cd5f5------2)
 - [Deploying Trained Models Like a Pro &lpar;Without Burning Your Wallet or Melting Your RTX&rpar;](https://itzmedhanu.medium.com/deploying-trained-models-like-a-pro-without-burning-your-wallet-or-melting-your-rtx-56b1169cb10f?source=rss-34d8ff7cd5f5------2)
 - [How I Accidentally Built a Rocket Ship While Building an AI Backend](https://itzmedhanu.medium.com/how-i-accidentally-built-a-rocket-ship-while-building-an-ai-backend-d61e9d00add4?source=rss-34d8ff7cd5f5------2)
 - [Startups: The Art of Sticking With It &lpar;And Not Going Broke!&rpar;](https://itzmedhanu.medium.com/startups-the-art-of-sticking-with-it-and-not-going-broke-f53765655857?source=rss-34d8ff7cd5f5------2)
