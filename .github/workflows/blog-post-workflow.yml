@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-readme-with-blog:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,11 +23,27 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@itzmedhanu"
 
+      - name: Fetch Random Thirukkural
+        id: fetch-kural
+        run: |
+          NUMBER=$((1 + RANDOM % 1330))
+          curl -s "https://getthirukkural.appspot.com/api/${NUMBER}.json?lang=ta" > kural.json
+
+          TAMIL_EXP=$(jq -r '.tam_exp' kural.json)
+          ENG_EXP=$(jq -r '.eng_exp' kural.json)
+
+          echo "TAMIL=$TAMIL_EXP" >> "$GITHUB_ENV"
+          echo "ENGLISH=$ENG_EXP" >> "$GITHUB_ENV"
+
+      - name: Inject Kural into README
+        run: |
+          sed -i '/<!-- KURAL-START -->/,/<!-- KURAL-END -->/c\<!-- KURAL-START -->\n"'$TAMIL'"\n\n['$ENGLISH']\n<!-- KURAL-END -->' README.md
+
       - name: Commit and Push Changes
         run: |
           git remote set-url origin https://github.com/${{ github.repository }}.git
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated with the latest blog posts" || echo "No changes to commit"
+          git commit -m "🔁 Updated with latest blog posts and Thirukkural" || echo "No changes to commit"
           git push
