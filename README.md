@@ -4,10 +4,12 @@
 
 <p align="center">
   <blockquote>
+    <!-- KURAL-START -->
     "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது<br>
     தள்ளினுந் தள்ளாமை நீர்த்து"
     <br>
     [Think of rising higher; that thought itself will take you higher]
+    <!-- KURAL-END -->
   </blockquote>
 </p>
 
@@ -139,7 +141,7 @@ Research                ███████████████░░░�
 
 
 <p align="center">
-<p align="center">⭐️ From <a href="https://itsdhanu.me">Dhanush Kandhan</a></p>
+<p align="center">⭐️ From <a href="https://dhanu.letretro.com">Dhanush Kandhan</a></p>
 </p>
 
 
