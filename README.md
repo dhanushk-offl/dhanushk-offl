@@ -76,7 +76,7 @@ Research                ███████████████░░░�
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [One word scares every AI engineer in prod: Hallucinations](https://itzmedhanu.medium.com/one-word-scares-every-ai-engineer-in-prod-hallucinations-c36f1ba16c58?source=rss-34d8ff7cd5f5------2)
+- [One word scares every AI engineer in prod: Hallucinations](https://pub.towardsai.net/one-word-scares-every-ai-engineer-in-prod-hallucinations-c36f1ba16c58?source=rss-34d8ff7cd5f5------2)
 - [I Built an AI Retro Tool. Then I Audited It. Send Help.](https://itzmedhanu.medium.com/i-built-an-ai-retro-tool-then-i-audited-it-send-help-b419d2a1f138?source=rss-34d8ff7cd5f5------2)
 - [7 Advanced Yet Practical Ways to Make Your AI Pipeline Production-Grade](https://itzmedhanu.medium.com/7-advanced-yet-practical-ways-to-make-your-ai-pipeline-production-grade-0488c1479705?source=rss-34d8ff7cd5f5------2)
 - [Community Ecosystem of India Is Really Doing Good?](https://itzmedhanu.medium.com/community-ecosystem-of-india-is-really-doing-good-640245fcbccd?source=rss-34d8ff7cd5f5------2)
