@@ -76,11 +76,11 @@ Research                ███████████████░░░�
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gaming GPUs vs AI GPUs: Same Silicon, Very Different Minds](https://pub.towardsai.net/gaming-gpus-vs-ai-gpus-same-silicon-very-different-minds-d91c2025d13d?source=rss-34d8ff7cd5f5------2)
 - [One word scares every AI engineer in prod: Hallucinations](https://itzmedhanu.medium.com/one-word-scares-every-ai-engineer-in-prod-hallucinations-c36f1ba16c58?source=rss-34d8ff7cd5f5------2)
 - [I Built an AI Retro Tool. Then I Audited It. Send Help.](https://itzmedhanu.medium.com/i-built-an-ai-retro-tool-then-i-audited-it-send-help-b419d2a1f138?source=rss-34d8ff7cd5f5------2)
 - [7 Advanced Yet Practical Ways to Make Your AI Pipeline Production-Grade](https://itzmedhanu.medium.com/7-advanced-yet-practical-ways-to-make-your-ai-pipeline-production-grade-0488c1479705?source=rss-34d8ff7cd5f5------2)
 - [Community Ecosystem of India Is Really Doing Good?](https://itzmedhanu.medium.com/community-ecosystem-of-india-is-really-doing-good-640245fcbccd?source=rss-34d8ff7cd5f5------2)
-- [The Evolution of AI Workstations: Why Owning GPUs Is Like Buying a Second-Hand Tractor](https://itzmedhanu.medium.com/the-evolution-of-ai-workstations-why-owning-gpus-is-like-buying-a-second-hand-tractor-ae893ef788ed?source=rss-34d8ff7cd5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎙️ Latest Podcast Episodes
