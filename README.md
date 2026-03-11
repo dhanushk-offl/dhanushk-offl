@@ -4,37 +4,15 @@ I research AI, build open source software, and write about both.
 Most of my work lives somewhere between a research paper and a production system.
 
 - **Day to day** — AI/ML research, full-stack systems, DevOps
-- **Open source** — contributor across AI tooling and developer infrastructure  
+- **Open source** — contributor across AI tooling and developer infrastructure
 - **On the side** — hosting [Idu Namma Tech U][podcast], a tech podcast in Tamil
 - **Elsewhere** — writing on [Medium][medium] about AI, SaaS, and engineering culture
 
-[dhanu.letretro.com][site] · [x.com/akadhanu][x] · [linkedin.com/in/dhanushkandhan][linkedin] · [dhanushkandhan75@gmail.com][email]
+[website][site] · [x][x] · [linkedin][linkedin] · [mail][email]
 
 ---
 
-> உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது தள்ளினுந் தள்ளாமை நீர்த்து  
-> *Let your every thought be of rising higher — that alone is worth thinking about.* — Thirukkural
-
----
-
-<picture>
-  <img src="metrics/calendar.svg" alt="Dhanush Kandhan — Commit History">
-</picture>
-
----
-
-#### Open source, by the numbers
-
-```
-<!-- METRICS-START -->
-Public repos          →  0
-Total commits         →  0
-Pull requests merged  →  0
-Issues opened         →  0
-Stars earned          →  0
-Followers             →  0
-<!-- METRICS-END -->
-```
+<img src="metrics/calendar.svg" alt="Dhanush Kandhan — Commit History" width="650">
 
 ---
 
@@ -48,9 +26,18 @@ Followers             →  0
 - [One Word Scares Every AI Engineer in Prod: Hallucinations](https://itzmedhanu.medium.com/one-word-scares-every-ai-engineer-in-prod-hallucinations-c36f1ba16c58)
 <!-- BLOG-POST-LIST:END -->
 
-[linkedin]: https://www.linkedin.com/in/dhanushkandhan/
+---
+
+> உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது தள்ளினுந் தள்ளாமை நீர்த்து  
+> *Let your every thought be of rising higher — that alone is worth thinking about.* — Thirukkural
+
+---
+
+<sub>all projects built with ♥ from Bengaluru, India.</sub>
+
+[site]: https://dhanu.letretro.com
 [x]: https://x.com/akadhanu
+[linkedin]: https://www.linkedin.com/in/dhanushkandhan/
 [medium]: https://itzmedhanu.medium.com/
 [email]: mailto:dhanushkandhan75@gmail.com
 [podcast]: https://open.spotify.com/show/7wNAoRcAzNzEf51JhNH3vo
-[site]: https://dhanu.letretro.com
