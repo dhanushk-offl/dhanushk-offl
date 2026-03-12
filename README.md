@@ -19,11 +19,11 @@ Most of my work lives somewhere between a research paper and a production system
 #### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [India's SaaS Moment Isn't Coming. It's Already Here.](https://itzmedhanu.medium.com/indias-saas-moment-isn-t-coming-it-s-already-here-0c92c11bfd59)
-- [How to Pitch Your SaaS? Like You Mean It.](https://itzmedhanu.medium.com/how-to-pitch-your-saas-like-you-mean-it-9ed0b65eb12a)
-- [5 Best Practices for Building AI Applications That Actually Scale](https://pub.towardsai.net/5-best-practices-for-building-ai-applications-that-actually-scale-58989a452dae)
-- [Gaming GPUs vs AI GPUs: Same Silicon, Very Different Minds](https://pub.towardsai.net/gaming-gpus-vs-ai-gpus-same-silicon-very-different-minds-d91c2025d13d)
-- [One Word Scares Every AI Engineer in Prod: Hallucinations](https://itzmedhanu.medium.com/one-word-scares-every-ai-engineer-in-prod-hallucinations-c36f1ba16c58)
+- [India’s SaaS Moment Isn’t Coming. It’s Already Here.](https://itzmedhanu.medium.com/indias-saas-moment-isn-t-coming-it-s-already-here-0c92c11bfd59?source=rss-34d8ff7cd5f5------2)
+- [How to Pitch Your SaaS? Like You Mean It.](https://itzmedhanu.medium.com/how-to-pitch-your-saas-like-you-mean-it-9ed0b65eb12a?source=rss-34d8ff7cd5f5------2)
+- [5 Best Practices for Building AI Applications That Actually Scale](https://pub.towardsai.net/5-best-practices-for-building-ai-applications-that-actually-scale-58989a452dae?source=rss-34d8ff7cd5f5------2)
+- [Gaming GPUs vs AI GPUs: Same Silicon, Very Different Minds](https://pub.towardsai.net/gaming-gpus-vs-ai-gpus-same-silicon-very-different-minds-d91c2025d13d?source=rss-34d8ff7cd5f5------2)
+- [One word scares every AI engineer in prod: Hallucinations](https://itzmedhanu.medium.com/one-word-scares-every-ai-engineer-in-prod-hallucinations-c36f1ba16c58?source=rss-34d8ff7cd5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
