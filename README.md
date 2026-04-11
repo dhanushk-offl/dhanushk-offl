@@ -19,11 +19,11 @@ Most of my work lives somewhere between a research paper and a production system
 #### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI That Agrees With Everything Is the Most Dangerous AI Ever Built](https://pub.towardsai.net/the-ai-that-agrees-with-everything-is-the-most-dangerous-ai-ever-built-2b7a1c547a6b?source=rss-34d8ff7cd5f5------2)
 - [AI Doesn’t Care About Your Water Crisis](https://medium.com/age-of-awareness/ai-doesnt-care-about-your-water-crisis-0b9df72a7947?source=rss-34d8ff7cd5f5------2)
 - [India’s SaaS Moment Isn’t Coming. It’s Already Here.](https://itzmedhanu.medium.com/indias-saas-moment-isn-t-coming-it-s-already-here-0c92c11bfd59?source=rss-34d8ff7cd5f5------2)
 - [How to Pitch Your SaaS? Like You Mean It.](https://itzmedhanu.medium.com/how-to-pitch-your-saas-like-you-mean-it-9ed0b65eb12a?source=rss-34d8ff7cd5f5------2)
 - [5 Best Practices for Building AI Applications That Actually Scale](https://pub.towardsai.net/5-best-practices-for-building-ai-applications-that-actually-scale-58989a452dae?source=rss-34d8ff7cd5f5------2)
-- [Gaming GPUs vs AI GPUs: Same Silicon, Very Different Minds](https://pub.towardsai.net/gaming-gpus-vs-ai-gpus-same-silicon-very-different-minds-d91c2025d13d?source=rss-34d8ff7cd5f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
