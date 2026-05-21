@@ -59,6 +59,8 @@ I actively speaking & organizing in Tech Communities across Bengaluru and Chenna
 - Winner of [Smart India Hackathon](https://sih.gov.in/) 2025, Software Edition
 - Affiliated Tech Creator at Spotify
 
+---
+
 #### Podcast
 
 **[Idu Namma Tech U][podcast]** — a Tamil-language tech podcast on AI, software, business, and ideas. New episodes every week.
