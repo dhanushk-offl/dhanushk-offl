@@ -5,7 +5,7 @@ Most of my work lives somewhere between a agents, code editors and some research
 
 - **Day to day** — building and shipping tools & products, orchestrating ai agents
 - **Open source** — contributor across AI tooling and developer infrastructure
-- **On the side** — hosting [Idu Namma Tech U][podcast], a tech podcast in Tamil 🎙️
+- **On the side** — hosting [Idu Namma Tech-u][podcast], a tech podcast in Tamil (10k+ monthly listeners) 🎙️
 - **Writing** — [Medium][medium] · AI, SaaS, and my learnlog
 
 [website][site] · [x][x] · [linkedin][linkedin] · [mail][email]
@@ -36,18 +36,28 @@ Most of my work lives somewhere between a agents, code editors and some research
 - **[Clynk](https://github.com/dhanushk-offl/clynk)** — secure, open-source clipboard sync between Android & PC · Kotlin
 - **[Guro](https://github.com/dhanushk-offl/guro)** — lightweight system monitoring and benchmarking toolkit · Python
 - **[Hallx](https://github.com/dhanushk-offl/hallx)** — model-agnostic hallucination risk engine for LLM outputs · Python
-- **[Resume Analyser](https://github.com/dhanushk-offl/resume-analyzer)** — AI-powered resume evaluation against job descriptions
 
 ---
 
-#### Talks
+#### How I work
 
-- **[Advanced Streaming UI for AI Apps using React/Next.js](https://www.youtube.com/live/0NYbRQtaYhs?si=borCzSBv2f8NqKAj&t=3168)** — Chennaireact Meetup, Chennai · Nov 2025 · [[slides]](https://www.figma.com/deck/6NXNk0LF7NWG5TNe4bQ03g/UI-Streaming-in-React-for-AI-Apps?node-id=1-36&t=UsdendFds0SkAWyY-1)
-- **Make Your Idea from 0 to 1 with Open Source** — TOSS Conf 2025, Chennai · Jul 2025 · [[slides]](https://www.figma.com/deck/ZYg6JJP2ZZX1yuK5SKmFy2/TOSSCONF?node-id=1-35&t=5WQ6Qungzh56nIA3-1)
-- **Democratizing High-Performance Computing with Python** — Chennaipy, Chennai · Jan 2025 · [[slides]](https://www.canva.com/design/DAGcveEiy5g/i3linGPiy1s8G8HIjvs1Rg/view)
-- **Leverage AI in Business and Management** — TechSpark IIITB 2023, Bengaluru · Sep 2023
+Expert in vibe coding and curating good prompt engineering, but I've been shipping tools and products as solo years before the AI came to the market.  
+
+And, mostly I'll build things to solve my problem, fortunately it helps fellow devs.
 
 ---
+
+#### Beyond Code
+
+I actively speaking & organizing in Tech Communities across Bengaluru and Chennai, taking about AI Agents, HPC, Python & React. You can [find my talks](https://dhanu.letretro.com/talks/).  Actively participating in Hackathons to build something useful. Apart from this , I was around scribling pen drawings, exploring adventure travel. 
+
+---
+
+#### Recognition
+
+- Research Fellow in AI and Computer Ethics at University of Cambridge.
+- Winner of [Smart India Hackathon](https://sih.gov.in/) 2025, Software Edition
+- Affiliated Tech Creator at Spotify
 
 #### Podcast
 
@@ -57,6 +67,8 @@ Most of my work lives somewhere between a agents, code editors and some research
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=flat-square&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/in/podcast/idu-namma-tech-u/id1705568004)
 
 ---
+
+#### Philosophy
 
 > உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது <br>
 > தள்ளினுந் தள்ளாமை நீர்த்து  
