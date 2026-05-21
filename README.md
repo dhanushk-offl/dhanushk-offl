@@ -41,9 +41,9 @@ Most of my work lives somewhere between a agents, code editors and some research
 
 #### How I work
 
-Expert in vibe coding and curating good prompt engineering, but I've been shipping tools and products as solo years before the AI came to the market.  
+I’m really into vibe coding and prompt engineering, but I’ve been building and shipping tools as a solo developer long before AI became mainstream.
 
-And, mostly I'll build things to solve my problem, fortunately it helps fellow devs.
+Most of the things I build start from solving my own problems — fortunately, they end up helping other developers too.
 
 ---
 
