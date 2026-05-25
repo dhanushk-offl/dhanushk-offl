@@ -36,6 +36,7 @@ Most of my work lives somewhere between a agents, code editors and some research
 - **[Clynk](https://github.com/dhanushk-offl/clynk)** — secure, open-source clipboard sync between Android & PC · Kotlin
 - **[Guro](https://github.com/dhanushk-offl/guro)** — lightweight system monitoring and benchmarking toolkit · Python
 - **[Hallx](https://github.com/dhanushk-offl/hallx)** — model-agnostic hallucination risk engine for LLM outputs · Python
+- **[Resume Parser Agent](https://github.com/dhanushk-offl/resume-parser)** — an agent skill, CLI tool, npm library, and MCP server that deeply parses resumes using the OpenResume 4-step algorithm 
 
 ---
 
