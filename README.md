@@ -68,6 +68,9 @@ I actively speaking & organizing in Tech Communities across Bengaluru and Chenna
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)][podcast]
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=flat-square&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/in/podcast/idu-namma-tech-u/id1705568004)
+[![Amazon Music](https://img.shields.io/badge/Amazon_Music-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://music.amazon.com/podcasts/d8f34ede-e01c-4126-9bf2-c6c11cedeace)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=flat-square&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLWCiIjwgT57DqsQwoByl2VniVWn4cXX59)
+[![JioSaavn](https://img.shields.io/badge/JioSaavn-2BC5B4?style=flat-square&logo=jiosaavn&logoColor=white)](https://www.jiosaavn.com/shows/idu-namma-tech-u/1/t6efTYEWHTM_)
 
 ---
 
