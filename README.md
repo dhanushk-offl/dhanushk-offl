@@ -56,8 +56,9 @@ I actively speaking & organizing in Tech Communities across Bengaluru and Chenna
 
 #### Recognition
 
-- Research Fellow in AI and Computer Ethics at University of Cambridge.
+- Former Research Fellow in AI and Computer Ethics at University of Cambridge.
 - Winner of [Smart India Hackathon](https://sih.gov.in/) 2025, Software Edition
+- Winner of [FOSS Hack](https://fossunited.org/fosshack/2026) 2026 for my current project [hallx](https://github.com/dhanushk-offl/hallx)
 - Affiliated Tech Creator at Spotify
 
 ---
