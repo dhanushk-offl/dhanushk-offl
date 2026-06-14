@@ -57,7 +57,7 @@ I actively speaking & organizing in Tech Communities across Bengaluru and Chenna
 #### Recognition
 
 - Former Research Fellow in AI and Computer Ethics at University of Cambridge.
-- Winner of [Smart India Hackathon](https://sih.gov.in/) 2025, Software Edition
+- Winner of [Smart India Hackathon](https://sih.gov.in/sih2025) 2025, Software Edition
 - Winner of [FOSS Hack](https://fossunited.org/fosshack/2026) 2026 for my current project [hallx](https://github.com/dhanushk-offl/hallx)
 - Affiliated Tech Creator at Spotify
 
@@ -79,7 +79,7 @@ I actively speaking & organizing in Tech Communities across Bengaluru and Chenna
 
 > உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது <br>
 > தள்ளினுந் தள்ளாமை நீர்த்து  
-> *Let your every thought be of rising higher — that alone is worth thinking about.* — Thirukkural
+> *Let your every thought be of rising higher — that alone is worth thinking about.* — [Thirukkural](https://en.wikipedia.org/wiki/Kural)
 
 ---
 
