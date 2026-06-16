@@ -40,6 +40,17 @@ Most of my work lives somewhere between a agents, code editors and some research
 
 ---
 
+
+#### Contributed Projects
+
+- **[Agent Terminal](https://github.com/DaniAkash/agent-terminal/)** — A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code + Codex support.
+- **[markdown-to-pdf-word](https://github.com/anandsundaramoorthysa/markdown-to-pdf-word)** — A VS Code extension that converts Markdown into polished PDF, DOCX, and HTML documents with visual customization, reusable profiles, AI-powered editing, and automated content cleanup.
+- **[luckydraw-picker](https://github.com/chennaireact/luckydraw-picker/)** — A Lucky Draw Picker for Community Events and Giveaway Announcements for Chennaireact Community.
+- **[PyCon India 2025](https://github.com/pythonindia/inpycon2025)** — Website for the PyCon India 2025 conference.
+- **[Google DevFest 2024](https://github.com/gdgchennai/DevFest22)** — GDG Chennai - Devfest website 2024.
+
+---
+
 #### How I work
 
 I’m really into vibe coding and prompt engineering, but I’ve been building and shipping tools as a solo developer long before AI became mainstream.
