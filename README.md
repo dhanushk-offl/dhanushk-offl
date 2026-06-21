@@ -44,6 +44,7 @@ Most of my work lives somewhere between a agents, code editors and some research
 #### Contributed Projects
 
 - **[Agent Terminal](https://github.com/DaniAkash/agent-terminal/)** — A terminal that understands AI agents. Project workspaces, live process metrics, and native Claude Code + Codex support.
+- **[renCal](https://github.com/t4t5/rencal)** — Modern, open-source calendar app. Built for Omarchy.
 - **[markdown-to-pdf-word](https://github.com/anandsundaramoorthysa/markdown-to-pdf-word)** — A VS Code extension that converts Markdown into polished PDF, DOCX, and HTML documents with visual customization, reusable profiles, AI-powered editing, and automated content cleanup.
 - **[luckydraw-picker](https://github.com/chennaireact/luckydraw-picker/)** — A Lucky Draw Picker for Community Events and Giveaway Announcements for Chennaireact Community.
 - **[PyCon India 2025](https://github.com/pythonindia/inpycon2025)** — Website for the PyCon India 2025 conference.
