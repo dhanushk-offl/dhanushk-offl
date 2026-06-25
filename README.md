@@ -19,7 +19,7 @@ Most of my work lives somewhere between a agents, code editors and some research
 #### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Choose Wisely: Models Should Follow Your Use Case.](https://itzmedhanu.medium.com/choose-wisely-models-should-follow-your-use-case-9e1c420fbbf6?source=rss-34d8ff7cd5f5------2)
+- [Choose Wisely: Models Should Follow Your Use Case.](https://pub.towardsai.net/choose-wisely-models-should-follow-your-use-case-9e1c420fbbf6?source=rss-34d8ff7cd5f5------2)
 - [Where to Use Evals? &lpar;And Where to Stop Burning Your Tokens, Please&rpar;](https://itzmedhanu.medium.com/where-to-use-evals-and-where-to-stop-burning-your-tokens-please-e68473a8a55d?source=rss-34d8ff7cd5f5------2)
 - [MCP or Die: Make Your SaaS Agent-Ready Before Your Competitor Does](https://itzmedhanu.medium.com/mcp-or-die-make-your-saas-agent-ready-before-your-competitor-does-4aaa8326a253?source=rss-34d8ff7cd5f5------2)
 - [The AI That Agrees With Everything Is the Most Dangerous AI Ever Built](https://itzmedhanu.medium.com/the-ai-that-agrees-with-everything-is-the-most-dangerous-ai-ever-built-2b7a1c547a6b?source=rss-34d8ff7cd5f5------2)
