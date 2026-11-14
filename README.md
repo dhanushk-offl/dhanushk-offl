@@ -33,11 +33,11 @@ Most of my work lives somewhere between a agents, code editors and some research
 - **[LetRetro](https://letretro.com)** — AI-powered retrospective and team feedback suite for engineering teams
 - **[A-spect](https://atomspect.letretro.com)** *(stealth)* — LLM observatory and prompt management suite for agent builders
 - **[Prev](https://prevu.pages.dev)** — local-first tool to preview social link cards before deployment · Rust
-- **[Clynk](https://github.com/dhanushk-offl/clynk)** — secure, open-source clipboard sync between Android & PC · Kotlin
-- **[Guro](https://github.com/dhanushk-offl/guro)** — lightweight system monitoring and benchmarking toolkit · Python
-- **[Hallx](https://github.com/dhanushk-offl/hallx)** — model-agnostic hallucination risk engine for LLM outputs · Python
-- **[Agentstat](https://github.com/dhanushk-offl/agentstat)** — AI account usage, quotas, balances, and reset times for Rust applications · Rust
-- **[Resume Parser Agent](https://github.com/dhanushk-offl/resume-parser)** — an agent skill, CLI tool, npm library, and MCP server that deeply parses resumes using the OpenResume 4-step algorithm 
+- **[Clynk](https://github.com/d5v7/clynk)** — secure, open-source clipboard sync between Android & PC · Kotlin
+- **[Guro](https://github.com/d5v7/guro)** — lightweight system monitoring and benchmarking toolkit · Python
+- **[Hallx](https://github.com/d5v7/hallx)** — model-agnostic hallucination risk engine for LLM outputs · Python
+- **[Agentstat](https://github.com/d5v7/agentstat)** — AI account usage, quotas, balances, and reset times for Rust applications · Rust
+- **[Resume Parser Agent](https://github.com/d5v7/resume-parser)** — an agent skill, CLI tool, npm library, and MCP server that deeply parses resumes using the OpenResume 4-step algorithm 
 
 ---
 
